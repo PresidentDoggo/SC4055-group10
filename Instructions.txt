@@ -1,4 +1,4 @@
 To run the experiments:
 
 - Edit 'noise', 'symmetry', and 'chain_length' near the top of the spsa_density.py file to match the experiment you wish to run
-- Then run 'python3.10 spsa_density.py
+- Then run python3.10 spsa_density.py
